@@ -1,0 +1,4 @@
+rootProject.name='DataBinding'
+include ':app'
+include ':sharedpreferencesingleton'
+include ':singletonexample'
